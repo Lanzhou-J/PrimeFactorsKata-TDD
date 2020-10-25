@@ -1,6 +1,7 @@
 using System.Collections.Generic;
 using PrimeFactorsKata;
 using Xunit;
+using static PrimeFactorsKata.PrimeFactors;
 
 namespace PrimeFactorTest
 {
@@ -20,13 +21,13 @@ namespace PrimeFactorTest
         [Fact]
         public void Test1()
         {
-            Assert.Equal(List(), PrimeFactors.Generate(1));
+            Assert.Equal(List(), Generate(1));
         }
         
         [Fact]
         public void Test2()
         {
-            Assert.Equal(List(2), PrimeFactors.Generate(2));
+            Assert.Equal(List(2), Generate(2));
         }
     }
 }
