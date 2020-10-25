@@ -35,5 +35,11 @@ namespace PrimeFactorTest
         {
             Assert.Equal(List(3), Generate(3));
         }
+        
+        [Fact]
+        public void Test4()
+        {
+            Assert.Equal(List(2,2), Generate(4));
+        }
     }
 }
