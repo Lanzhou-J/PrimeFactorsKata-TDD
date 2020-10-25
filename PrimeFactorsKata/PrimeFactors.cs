@@ -10,7 +10,7 @@ namespace PrimeFactorsKata
             List<int> primes = new List<int>();
             if (number > 1)
             {
-                primes.Add(2);
+                primes.Add(number);
             }
 
             return primes;
