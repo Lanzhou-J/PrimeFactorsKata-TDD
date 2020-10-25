@@ -11,7 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/PrimeFactorsTest/PrimeFactorsTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PrimeFactorsTest/PrimeFactorsTest.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/PrimeFactorsKata/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -22,6 +22,8 @@
         <option value="$PROJECT_DIR$/PrimeFactorsKata/Program.cs" />
         <option value="$PROJECT_DIR$/PrimeFactorsKata/Primefactors.cs" />
         <option value="$PROJECT_DIR$/PrimeFactorsTest/PrimeFactorsTest.cs" />
+        <option value="$PROJECT_DIR$/PrimeFactorTest/UnitTest1.cs" />
+        <option value="$PROJECT_DIR$/PrimeFactorTest/PrimeFactorTest.cs" />
         <option value="$PROJECT_DIR$/PrimeFactorsKata/PrimeFactors.cs" />
       </list>
     </option>
@@ -34,6 +36,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunManager" selected=".NET Project.PrimeFactorsKata">
     <configuration name="PrimeFactorsKata" type="DotNetProject" factoryName=".NET Project">
@@ -64,7 +67,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603617068026</updated>
       <workItem from="1603617077156" duration="460000" />
-      <workItem from="1603617543123" duration="629000" />
+      <workItem from="1603617543123" duration="1058000" />
     </task>
     <servers />
   </component>
@@ -77,9 +80,9 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="829" y="-857" key="Rider.ProjectTemplateDialog.Size" timestamp="1603617104866">
+    <state x="829" y="-857" key="Rider.ProjectTemplateDialog.Size" timestamp="1603618473282">
       <screen x="383" y="-1057" width="1920" height="1057" />
     </state>
-    <state x="829" y="-857" key="Rider.ProjectTemplateDialog.Size/383.-1057.1920.1057/0.23.1680.1027@383.-1057.1920.1057" timestamp="1603617104866" />
+    <state x="829" y="-857" key="Rider.ProjectTemplateDialog.Size/383.-1057.1920.1057/0.23.1680.1027@383.-1057.1920.1057" timestamp="1603618473282" />
   </component>
 </project>

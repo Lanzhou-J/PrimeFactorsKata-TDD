@@ -14,7 +14,7 @@ namespace PrimeFactorTest
 
         private static List<int> List()
         {
-            return null;
+            return new List<int>();
         }
     }
 }
