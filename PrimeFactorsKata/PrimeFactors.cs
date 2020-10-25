@@ -7,7 +7,13 @@ namespace PrimeFactorsKata
     {
         public static List<int> Generate(int number)
         {
-            return new List<int>();
+            List<int> primes = new List<int>();
+            if (number > 1)
+            {
+                primes.Add(2);
+            }
+
+            return primes;
         }
     }
 }
