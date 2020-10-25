@@ -1,0 +1,12 @@
+/Users/lanzhou.jiang/RiderProjects/PrimeFactorsKata/PrimeFactorsKata/bin/Debug/netcoreapp3.1/PrimeFactorsKata.deps.json
+/Users/lanzhou.jiang/RiderProjects/PrimeFactorsKata/PrimeFactorsKata/bin/Debug/netcoreapp3.1/PrimeFactorsKata.runtimeconfig.json
+/Users/lanzhou.jiang/RiderProjects/PrimeFactorsKata/PrimeFactorsKata/bin/Debug/netcoreapp3.1/PrimeFactorsKata.runtimeconfig.dev.json
+/Users/lanzhou.jiang/RiderProjects/PrimeFactorsKata/PrimeFactorsKata/bin/Debug/netcoreapp3.1/PrimeFactorsKata.dll
+/Users/lanzhou.jiang/RiderProjects/PrimeFactorsKata/PrimeFactorsKata/bin/Debug/netcoreapp3.1/PrimeFactorsKata.pdb
+/Users/lanzhou.jiang/RiderProjects/PrimeFactorsKata/PrimeFactorsKata/obj/Debug/netcoreapp3.1/PrimeFactorsKata.csprojAssemblyReference.cache
+/Users/lanzhou.jiang/RiderProjects/PrimeFactorsKata/PrimeFactorsKata/obj/Debug/netcoreapp3.1/PrimeFactorsKata.AssemblyInfoInputs.cache
+/Users/lanzhou.jiang/RiderProjects/PrimeFactorsKata/PrimeFactorsKata/obj/Debug/netcoreapp3.1/PrimeFactorsKata.AssemblyInfo.cs
+/Users/lanzhou.jiang/RiderProjects/PrimeFactorsKata/PrimeFactorsKata/obj/Debug/netcoreapp3.1/PrimeFactorsKata.csproj.CoreCompileInputs.cache
+/Users/lanzhou.jiang/RiderProjects/PrimeFactorsKata/PrimeFactorsKata/obj/Debug/netcoreapp3.1/PrimeFactorsKata.dll
+/Users/lanzhou.jiang/RiderProjects/PrimeFactorsKata/PrimeFactorsKata/obj/Debug/netcoreapp3.1/PrimeFactorsKata.pdb
+/Users/lanzhou.jiang/RiderProjects/PrimeFactorsKata/PrimeFactorsKata/obj/Debug/netcoreapp3.1/PrimeFactorsKata.genruntimeconfig.cache
