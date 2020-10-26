@@ -12,6 +12,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/PrimeFactorsTest/PrimeFactorsTest.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9152434B-0FAC-463B-87F2-DD9AF798817F/9c/561369d9/Assert.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/PrimeFactorsKata/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -67,7 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603617068026</updated>
       <workItem from="1603617077156" duration="460000" />
-      <workItem from="1603617543123" duration="3473000" />
+      <workItem from="1603617543123" duration="3766000" />
     </task>
     <servers />
   </component>
