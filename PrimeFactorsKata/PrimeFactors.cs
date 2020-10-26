@@ -8,17 +8,19 @@ namespace PrimeFactorsKata
         public static List<int> Generate(int number)
         {
             List<int> primes = new List<int>();
-            if (number > 1)
+            int candidate = 2;
+            while (number > 1)
             {
-                while (number % 2==0)
+                while (number % candidate==0)
                 {
-                    primes.Add(2);
-                    number /= 2;
+                    primes.Add(candidate);
+                    number /= candidate;
                 }
-                if (number>1)
-                {
-                    primes.Add(number);
-                }
+                candidate++;
+            }
+            if (number>1)
+            {
+                primes.Add(number);
             }
             return primes;
         }
