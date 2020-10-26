@@ -23,8 +23,8 @@
         <option value="$PROJECT_DIR$/PrimeFactorsKata/Primefactors.cs" />
         <option value="$PROJECT_DIR$/PrimeFactorsTest/PrimeFactorsTest.cs" />
         <option value="$PROJECT_DIR$/PrimeFactorTest/UnitTest1.cs" />
-        <option value="$PROJECT_DIR$/PrimeFactorsKata/PrimeFactors.cs" />
         <option value="$PROJECT_DIR$/PrimeFactorTest/PrimeFactorTest.cs" />
+        <option value="$PROJECT_DIR$/PrimeFactorsKata/PrimeFactors.cs" />
       </list>
     </option>
   </component>
@@ -67,7 +67,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603617068026</updated>
       <workItem from="1603617077156" duration="460000" />
-      <workItem from="1603617543123" duration="2986000" />
+      <workItem from="1603617543123" duration="3473000" />
     </task>
     <servers />
   </component>
