@@ -39,7 +39,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
-  <component name="RunManager" selected=".NET Project.PrimeFactorsKata">
+  <component name="RunManager">
     <configuration name="PrimeFactorsKata" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -68,7 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603617068026</updated>
       <workItem from="1603617077156" duration="460000" />
-      <workItem from="1603617543123" duration="4064000" />
+      <workItem from="1603617543123" duration="4794000" />
     </task>
     <servers />
   </component>
