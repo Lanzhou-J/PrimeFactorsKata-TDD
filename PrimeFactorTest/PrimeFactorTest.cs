@@ -48,6 +48,12 @@ namespace PrimeFactorTest
             Assert.Equal(List(2,3), Generate(6));
         }
         
+        [Fact]
+        public void Test6()
+        {
+            Assert.Equal(List(2,2,2), Generate(8));
+        }
+        
         
     }
 }
