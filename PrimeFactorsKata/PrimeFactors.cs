@@ -18,10 +18,7 @@ namespace PrimeFactorsKata
                 }
                 candidate++;
             }
-            if (number>1)
-            {
-                primes.Add(number);
-            }
+
             return primes;
         }
     }
